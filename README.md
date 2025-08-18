@@ -1,15 +1,10 @@
-## ⚠️ Deprecated
+## 🔒 Archived
 
-Hey all,
+This project is now [archived](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) and is [deprecated on `npm`](https://www.npmjs.com/package/react-beautiful-dnd). If you are still using `react-beautiful-dnd`, we have put together some [resources to help you move forward](https://github.com/atlassian/react-beautiful-dnd/issues/2672). To see our ongoing work in the drag and drop problem space, head to [Pragmatic drag and drop](https://github.com/atlassian/pragmatic-drag-and-drop).
 
-We are taking the next step in saying thank you and goodbye to our friend `react-beautiful-dnd`.
+We are so grateful to everybody who contributed in big and small ways to this project.
 
-- 🔔 We will be soon deprecating `react-beautiful-dnd` on [npm](https://www.npmjs.com/package/react-beautiful-dnd). When we do you will start to get console warnings in your build tools.
-- 🔒 On Apr 30, 2025 (six months from posting) we will [archiving](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories) the `react-beautiful-dnd` Github repository (it will become read only).
-
-Thank you everybody for your support of this project.
-
-[More information](https://github.com/atlassian/react-beautiful-dnd/issues/2672)
+Cheers
 
 <br>
 
@@ -164,15 +159,15 @@ There are a lot of libraries out there that allow for drag and drop interactions
 
 ## Creator ✍️
 
-Alex Reardon [@alexandereardon](https://twitter.com/alexandereardon)
+Alex Reardon [@alexandereardon](https://x.com/alexandereardon)
 
-> Alex is no longer personally maintaning this project. The other wonderful maintainers are carrying this project forward.
+> Alex is no longer personally maintaining this project. The other wonderful maintainers are carrying this project forward.
 
 ## Maintainers
 
-- [Daniel Del Core](https://twitter.com/danieldelcore)
-- Many other [@Atlassian](https://twitter.com/Atlassian)'s!
+- [Daniel Del Core](https://x.com/danieldelcore)
+- Many other [@Atlassian](https://x.com/Atlassian)'s!
 
 ## Collaborators 🤝
 
-- Bogdan Chadkin [@IAmTrySound](https://twitter.com/IAmTrySound)
+- Bogdan Chadkin [@IAmTrySound](https://x.com/IAmTrySound)
